@@ -1,0 +1,1 @@
+print("Hola mundo Python, Azul, rojo y verde")
